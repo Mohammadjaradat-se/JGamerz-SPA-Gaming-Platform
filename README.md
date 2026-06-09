@@ -145,24 +145,21 @@ My responsibilities included:
 ### Home Page
 <img width="1910" height="903" alt="Screenshot (809)" src="https://github.com/user-attachments/assets/03b87003-9008-488a-aab5-f8e5d19d5df1" />
 
-
-Add screenshot here.
-
 ### Marketplace
 
-Add screenshot here.
+<img width="1920" height="1080" alt="Screenshot (810)" src="https://github.com/user-attachments/assets/9a5c3691-e657-4c34-8b07-89d62282e81f" />
 
 ### Community
 
-Add screenshot here.
+<img width="1920" height="1080" alt="Screenshot (811)" src="https://github.com/user-attachments/assets/a5691790-aac5-4a34-a952-a2ec344c93b5" />
 
 ### Chat System
 
-Add screenshot here.
+<img width="1920" height="1080" alt="Screenshot (814)" src="https://github.com/user-attachments/assets/4150397a-02ef-4944-9447-c9b983e36d4b" />
 
 ### User Profile
 
-Add screenshot here.
+<img width="1920" height="1080" alt="Screenshot (815)" src="https://github.com/user-attachments/assets/67873b10-e487-4938-900b-0d11c168ccf6" />
 
 ---
 
