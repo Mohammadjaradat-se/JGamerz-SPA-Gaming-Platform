@@ -7,6 +7,8 @@ The frontend was built using Vanilla JavaScript, HTML, and CSS without using fra
 My primary contribution focused on the complete frontend development of the platform, including UI implementation, SPA architecture, routing, gaming feed, community features, chat interfaces, user profiles, marketplace pages, gaming news pages, and integration with backend services.
 
 ---
+## Live Demo : https://mohammadjaradat-se.github.io/JGamerz-SPA-Gaming-Platform/
+---
 
 ## Project Overview
 
