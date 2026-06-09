@@ -1,0 +1,52 @@
+@import url("./base.css");
+@import url("./navbar.css");
+@import url("./auth.css");
+@import url("./components.css");
+@import url("./home.css");
+@import url("./profile.css");
+@import url("./store.css");
+@import url("./marketplace.css");
+@import url("./community.css");
+@import url("./news.css");
+@import url("./ai.css");
+@import url("./feed.css");
+@import url("./footer.css");
+@import url("./settings.css");
+.custom-toast {
+
+    position: fixed;
+
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%) scale(0.8);
+
+    background: #111827;
+
+    color: white;
+
+    padding: 18px 30px;
+
+    border-radius: 14px;
+
+    font-size: 18px;
+
+    font-weight: 600;
+
+    box-shadow: 0 0 25px rgba(255, 102, 0, 0.4);
+
+    border: 2px solid #ff6600;
+
+    z-index: 9999;
+
+    opacity: 0;
+
+    transition: all 0.3s ease;
+}
+
+.custom-toast.show {
+
+    opacity: 1;
+
+    transform: translate(-50%, -50%) scale(1);
+}
