@@ -8,6 +8,7 @@ My primary contribution focused on the complete frontend development of the plat
 
 ---
 ## Live Demo : https://mohammadjaradat-se.github.io/JGamerz-SPA-Gaming-Platform/
+## Watch the project demonstration video: https://youtu.be/_KCpms7btqo?si=MseipblxvfPXLGXr
 ---
 
 ## Project Overview
@@ -142,6 +143,8 @@ My responsibilities included:
 ## Screenshots
 
 ### Home Page
+<img width="1910" height="903" alt="Screenshot (809)" src="https://github.com/user-attachments/assets/03b87003-9008-488a-aab5-f8e5d19d5df1" />
+
 
 Add screenshot here.
 
@@ -160,14 +163,6 @@ Add screenshot here.
 ### User Profile
 
 Add screenshot here.
-
----
-
-## Project Demonstration
-
-Watch the project demonstration video:
-
-[YouTube Demo Video](PASTE_YOUTUBE_LINK_HERE)
 
 ---
 
