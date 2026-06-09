@@ -63,7 +63,7 @@ export function Navbar() {
         <!-- Logo + Name -->
         <a class="navbar-brand d-flex align-items-center gap-2" href="#"
             onclick="event.preventDefault(); navigate('home')">
-            <img src="assets/logo.png" height="40">
+            <img src="./assets/Logo.png" height="40">
             <span class="logo-text">JGamerz</span>
         </a>
 

@@ -40,7 +40,7 @@ export function GameStore() {
         <div class="gstore-info-side">
 
             <img 
-                src="./assets/logo.png"
+                src="./assets/Logo.png"
                 class="gstore-logo"
             >
 

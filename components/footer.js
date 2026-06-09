@@ -129,7 +129,7 @@ export function Footer() {
       <div class="jg-footer__inner">
         <section class="jg-footer__brand" aria-label="JGamerz">
           <a class="jg-footer__logo" href="#" data-footer-page="home" aria-label="JGamerz home">
-            <img src="./assets/logo.png" alt="JGamerz Logo" class="nav-logo-img">
+            <img src="./assets/Logo.png" alt="JGamerz Logo" class="nav-logo-img">
             <span class="jg-footer__logo-text">JGamerz</span>
           </a>
           <p class="jg-footer__description">

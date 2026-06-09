@@ -20,7 +20,7 @@ export function AuthPage() {
       </div>
 
       <div class="auth-right">
-        <img src="assets/logo.png" class="auth-logo">
+        <img src="./assets/Logo.png" class="auth-logo">
         <h1>JGamerz</h1>
         <p>Join the ultimate gaming community</p>
       </div>
